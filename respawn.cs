@@ -1,3 +1,6 @@
+// for a specific game. DO NOT USE for VGD
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
